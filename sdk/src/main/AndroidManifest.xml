@@ -17,6 +17,7 @@
     <application>
         <activity
             android:name="cards.pay.paycardsrecognizer.sdk.ui.ScanCardActivity"
+            android:exported="false"
             android:theme="@style/wocr_RecognizerTheme" />
     </application>
 
